@@ -1,0 +1,20 @@
+{
+  "name": "jood",
+  "version": "1.0.0",
+  "description": "Landing page design",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Adham Khalifa",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "live-server": "^1.2.1",
+    "popper.js": "^1.16.1"
+  }
+}
