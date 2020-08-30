@@ -142,7 +142,7 @@ a {
   width: 100%;
   z-index: 0;
   position: relative;
-  min-height: 100vh; }
+  min-height: 800px; }
   .header-section::before {
     content: '';
     width: 100%;
